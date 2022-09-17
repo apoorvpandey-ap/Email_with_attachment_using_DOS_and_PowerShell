@@ -56,3 +56,5 @@ message - test SMTP
 #
 ### Step .4 - Run a bat command 
 `file_name.bat`
+![image](https://user-images.githubusercontent.com/66588814/190840760-ad771ef7-40e7-4db0-8b72-59201a771f2f.png)
+
